@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">⚡ USB 3.0 PHY Transmitter Modules</h1>
+  <h1 align="center">USB 3.0 PHY Transmitter Modules</h1>
   <p align="center">
     <strong>Verilog RTL implementation of USB 3.0 Physical Layer transmitter on Xilinx Zynq-7000 (ZedBoard)</strong>
   </p>
